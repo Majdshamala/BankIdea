@@ -1,0 +1,1725 @@
+﻿
+html, html a {
+    text-decoration: none;
+    text-rendering: geometricprecision;
+}
+html a:hover {
+    text-decoration: none;
+}
+body {
+    background: #ffffff none repeat scroll 0 0;
+    color: #585858;
+    font-family: reg;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    color: #333333;
+    font-weight: normal;
+    margin-top: 0;
+}
+.col-centered {
+    display: inline-block;
+    float: none !important;
+}
+.row-centered {
+    text-align: center;
+}
+.topMenu .popover {
+    border-radius: 8px;
+    margin-top: 20px;
+    padding: 3px 7px;
+}
+.topMenu .popover-content {
+    padding: 0 9px;
+}
+.signInContent {
+    background: #ffffff none repeat scroll 0 0;
+    direction: rtl;
+    font-family: regular;
+    height: auto;
+    margin: 15px auto auto;
+    text-align: right;
+    width: 190px;
+}
+.signInContent p {
+    color: #383838;
+    font-family: reg !important;
+    font-size: 11px;
+    margin-bottom: 4px;
+}
+.signInContent input {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #d6d6d6;
+    border-radius: 5px;
+    font-family: reg !important;
+    font-size: 13px;
+    height: 31px;
+    margin-top: 2px;
+    padding: 2px 10px 6px;
+    width: 100%;
+}
+.signInContent > div {
+    margin-top: 15px;
+}
+.popover-content > div a {
+    display: block;
+    font-family: light !important;
+    line-height: 32px;
+    text-decoration: none;
+}
+.forgetPass {
+    color: #383838;
+    display: block;
+    font-size: 11px;
+    margin-top: 10px;
+    text-align: right;
+}
+.signInContent > div button {
+    font-family: reg !important;
+    font-size: 11px;
+    height: 29px;
+    padding: 3px 8px 6px;
+    width: 90px;
+}
+.signInContent .btn-success {
+    margin-right: 6px;
+}
+.form-search input {
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+    color: #6f6f6f;
+    font-family: reg !important;
+    margin-top: 19px;
+    min-width: 200px;
+    padding: 4px 9px;
+    width: 100%;
+}
+.form-search button {
+    background: #a6539a none repeat scroll 0 0;
+    color: #ffffff;
+    font-family: reg !important;
+    margin-bottom: 19px;
+    margin-top: 8px;
+    transition: all 0.25s ease 0s;
+    width: 100%;
+}
+.SignIn {
+    background: rgba(0, 0, 0, 0) url("../images/style29.png") no-repeat scroll 0 0;
+    float: left;
+    height: 20px;
+    margin-right: 16px;
+    width: 18px;
+}
+.searchHeader {
+    background: rgba(0, 0, 0, 0) url("../images/style30.png") no-repeat scroll 0 0;
+    height: 20px;
+    width: 19px;
+}
+.header {
+    background: rgba(0, 0, 0, 0) url("../images/img0.jpg") no-repeat scroll 0 0 / cover ;
+    min-height: 517px;
+}
+.topMenu > a {
+    cursor: pointer;
+    display: inline-block;
+}
+.bottomMenu {
+    float: left;
+    margin-top: 22px;
+}
+.menucontainer {
+}
+.bottomMenu .navbar-default {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    margin-bottom: 0;
+}
+.bottomMenu .navbar-brand {
+    display: none;
+}
+.bottomMenu .navbar-default .navbar-nav > li > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    color: #ffffff;
+    font-size: 15px;
+    line-height: 31px;
+    margin: 0 18px;
+    padding-left: 0;
+    padding-right: 0;
+    transition: color 0.25s ease 0s;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #e7e7e7;
+    color: #ffffff;
+}
+.topMenu {
+    float: left;
+    margin-top: 42px;
+}
+#signINID, #searchHeader {
+    display: none;
+}
+.form-search button:hover {
+    background: #8e4999 none repeat scroll 0 0;
+    color: #ffffff;
+}
+.logo {
+}
+.logo a {
+}
+.logo a img {
+    margin-right: 20px;
+}
+.headbutton {
+    text-align: center;
+}
+.headbutton > h1 {
+    color: #ffffff;
+    font-family: med;
+    font-size: 43px;
+    margin-top: 57px;
+}
+.headbutton > p {
+    color: #ffffff;
+    font-family: light;
+    font-size: 17px;
+    margin-top: 24px;
+    padding: 0 270px;
+}
+.headbutton > button {
+    background-position: left 0;
+    border: medium none;
+    border-radius: 9px;
+    font-family: med;
+    font-size: 25px;
+    height: 80px;
+    margin: 42px 10px 0;
+    transition: all 0.2s ease-in 0s;
+    width: 310px;
+}
+.addIdea {
+    background: #ffffff url("../images/style2.png") no-repeat scroll left center;
+    color: #a7539b;
+}
+.addchallange {
+    background: #ffffff url("../images/style1.png") no-repeat scroll left center;
+    color: #f1c40f;
+}
+.headbutton > button:hover {
+    background-color: #ffffff;
+    box-shadow: 6px 6px 33px rgba(0, 0, 0, 0.22);
+}
+.addIdea:hover {
+    color: #a7539b;
+}
+.addchallange:hover {
+    color: #f1c40f;
+}
+.statisticContainer {
+    background: rgba(0, 0, 0, 0) url("../images/img6.jpg") no-repeat scroll 0 0 / cover ;
+    margin-top: 74px;
+    min-height: 394px;
+    text-align: center;
+}
+.statisticContainer > p {
+    color: #ffffff;
+    display: inline-block;
+    font-family: med;
+    font-size: 32px;
+    margin-top: 45px;
+}
+.statisticContainer > div > div {
+    background-position: center 35px;
+    border: 1px solid #ffffff;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+    height: 193px;
+    margin: 0 32px;
+    text-align: center;
+    transition: all 0.2s ease-in 0s;
+    width: 193px;
+}
+.statisticContainer > div > div > p {
+    color: #ffffff;
+    font-family: med;
+    font-size: 23px;
+    margin-top: 86px;
+    transition: all 0.2s ease-in 0s;
+}
+.statisticContainer > div > div > span {
+    color: #ffffff;
+    font-family: med;
+    font-size: 21px;
+    transition: all 0.2s ease-in 0s;
+}
+.SChanllange {
+    background: rgba(0, 0, 0, 0) url("../images/style20.png") no-repeat scroll 0 0;
+}
+.statisticContainer > div > div:hover {
+    background-position: center 35px;
+    border: 1px solid #ffffff;
+}
+.statisticContainer > div > div:hover > p, .statisticContainer > div > div:hover > span {
+    color: #9e569c;
+}
+.SChanllange:hover {
+    background: #ffffff url("../images/style19.png") no-repeat scroll 0 0;
+}
+.statisticContainer > div {
+    margin-top: 37px;
+    max-width: 1065px;
+}
+.SIdea {
+    background: rgba(0, 0, 0, 0) url("../images/style22.png") no-repeat scroll 0 0;
+}
+.SIdea:hover {
+    background: #ffffff url("../images/style21.png") no-repeat scroll 0 0;
+}
+.SPartic {
+    background: rgba(0, 0, 0, 0) url("../images/style24.png") no-repeat scroll 0 0;
+}
+.SPartic:hover {
+    background: #ffffff url("../images/style23.png") no-repeat scroll 0 0;
+}
+.SAward {
+    background: rgba(0, 0, 0, 0) url("../images/style26.png") no-repeat scroll 0 0;
+}
+.SAward:hover {
+    background: #ffffff url("../images/style25.png") no-repeat scroll 0 0;
+}
+.footer {
+    height: 375px;
+    text-align: center;
+}
+.footer > a {
+    background: rgba(0, 0, 0, 0) url("../images/style27.png") no-repeat scroll 0 0;
+    display: inline-block;
+    height: 42px;
+    margin: 89px auto auto;
+    width: 173px;
+}
+.footer > p {
+    color: #5f5f5f;
+    font-family: light;
+    font-size: 15px;
+    margin-top: 41px;
+    padding: 0 340px;
+}
+.footer > div {
+    margin-top: 54px;
+}
+.footer > div a {
+    color: #282828;
+    margin: 0 25px;
+}
+.rightside {
+}
+.hometab {
+    border: 0 none;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.hometab > li {
+    background: #b6b6b6 none repeat scroll 0 0;
+    border: medium none !important;
+    border-radius: 15px;
+    margin-left: 20px;
+    transition: all 0.1s ease-in 0s;
+}
+.hometab > li a {
+    background: rgba(0, 0, 0, 0) url("../images/style28.png") no-repeat scroll 0 0;
+    border: medium none !important;
+    padding: 0;
+}
+.hometab > li a > span {
+    background: rgba(0, 0, 0, 0) url("../images/style4.png") no-repeat scroll right 24px center;
+    color: #ffffff;
+    display: block;
+    font-family: med;
+    font-size: 21px;
+    height: 58px;
+    line-height: 57px;
+    padding-right: 60px;
+    width: 301px;
+}
+.hometabcontent {
+}
+.hometabcontent > div {
+}
+.hometab > li a:hover, .hometab > li a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/style28.png") no-repeat scroll 0 0;
+}
+.hometab > li.active a {
+    background: rgba(0, 0, 0, 0) url("../images/style28.png") no-repeat scroll 0 0;
+}
+.hometab > li.active a:hover, .hometab > li.active a:focus {
+    background: rgba(0, 0, 0, 0) url("../images/style28.png") no-repeat scroll 0 0;
+}
+.hometab > li.active a > span {
+    background: rgba(0, 0, 0, 0) url("../images/style3.png") no-repeat scroll right 16px top 8px;
+}
+.IdeaContent {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 15px;
+    height: 214px;
+    margin-top: 24px;
+    overflow: hidden;
+}
+.ideaimghome {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    overflow: hidden;
+    width: 236px;
+}
+.ideaimghome > img {
+    height: 100%;
+    width: 236px;
+}
+.IdeaText {
+    float: right;
+    padding-left: 26px;
+    padding-right: 20px;
+    width: 340px;
+}
+.IdeaText > h2 {
+    color: #0497e3;
+    font-family: med;
+    font-size: 22px;
+    margin-top: 22px;
+}
+.IdeaText > p {
+    color: #585858;
+    font-family: light;
+    font-size: 16px;
+    height: 82px;
+    margin-top: 14px;
+}
+.IdeaText > div {
+    float: right;
+    margin-top: 17px;
+}
+.IdeaText > div a {
+    border: 1px solid #934b99;
+    border-radius: 8px;
+    color: #934b99;
+    display: inline-block;
+    height: 34px;
+    line-height: 31px;
+    text-align: center;
+    width: 34px;
+}
+.IdeaText > div a:first-child {
+    font-family: light;
+    padding: 0 17px;
+    width: auto;
+}
+.likecontain {
+    border-left: 1px solid #f4f4f4;
+    float: right;
+    height: 100%;
+    width: 99px;
+}
+.likehome {
+}
+.likehome > p {
+    color: #ffffff;
+    font-family: tit;
+    font-size: 22px;
+    height: 52px;
+    line-height: 46px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+.likehome > div {
+    background: #f6f6f6 none repeat scroll 0 0;
+    height: 50px;
+}
+.likehome > div > span {
+    cursor: pointer;
+    display: inline-block;
+    height: 100%;
+    width: 49px;
+}
+.likehome > div > span:first-child {
+    background: #f6f6f6 url("../images/style5.png") no-repeat scroll center center;
+    border-left: 1px solid #ffffff;
+}
+.likehome > div > span:last-child {
+    background: #f6f6f6 url("../images/style6.png") no-repeat scroll center center;
+    width: 45px;
+}
+.classifihome {
+    margin-top: 30px;
+}
+.classifihome > p {
+    color: #0497e3;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+.classifihome > span {
+}
+.classifihome > span span {
+    color: #7a7a7a;
+    display: block;
+    font-family: light;
+    font-size: 11px;
+}
+.userhome {
+    float: right;
+    text-align: center;
+    width: 179px;
+}
+.userhome > span {
+    display: block;
+    height: 27px;
+    margin: 7px auto auto;
+    position: relative;
+    width: 68px;
+}
+.userhome > a {
+}
+.userhome > a img, .mostactivecontent > a img {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #ccb8d8;
+    border-radius: 15px;
+    height: 75px;
+    margin-top: 8px;
+    padding: 5px;
+    width: 75px;
+}
+.userhome > p {
+    color: #984d99;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.awardhome {
+    border-top: 1px solid #f4f4f4;
+}
+.awardhome > span {
+    color: #b179b3;
+    float: right;
+    font-size: 14px;
+    line-height: 48px;
+    margin-right: 7px;
+}
+.awardhome > div {
+    float: right;
+    padding-right: 3px;
+}
+.awardhome > div a, .challanghomecontent > div > div a {
+    background: #f0f0f0 url("../images/style9.png") no-repeat scroll center center;
+    border-radius: 50%;
+    display: inline-block;
+    height: 34px;
+    margin-right: 4px;
+    margin-top: 8px;
+    width: 34px;
+}
+.palmhome {
+    background-image: url("../images/style9.png") !important;
+}
+.ksahome {
+    background-image: url("../images/style8.png") !important;
+}
+.flaghome {
+    background-image: url("../images/style10.png") !important;
+}
+.hometab > li.active::before {
+    background: #984d99 none repeat scroll 0 0;
+    box-shadow: -2px -2px 0 -1px #984d99;
+    content: "";
+    height: 16px;
+    left: 50%;
+    margin-left: -5px;
+    position: absolute;
+    top: 50px;
+    transform: rotate(45deg);
+    width: 16px;
+}
+.leftside {
+}
+.getaward {
+    border-radius: 15px;
+    height: 353px;
+    margin-top: 132px;
+    text-align: center;
+}
+.getaward > p {
+    background: rgba(0, 0, 0, 0) url("../images/style11.png") no-repeat scroll right center;
+    color: #ffffff;
+    display: inline-block;
+    font-family: med;
+    font-size: 18px;
+    margin-right: 10px;
+    margin-top: 22px;
+    padding-right: 0;
+    width: 87%;
+}
+.getaward > img {
+    margin: 48px auto 43px;
+}
+.getawardslider {
+}
+.getawardslider .carousel-inner {
+}
+.getawardslider .carousel-inner .item {
+    text-align: center;
+}
+.getawardslider .carousel-inner .item a {
+    float: right;
+    margin: 0 4px;
+}
+.getawardslider .carousel-inner .item a img {
+    border-radius: 50%;
+    height: 67px;
+    width: 67px;
+}
+.getawardslider > a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+    height: 26px;
+    line-height: 22px;
+    opacity: 1;
+    text-align: center;
+    width: 26px;
+}
+.getawardslider > a.left {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    left: 17px;
+    top: 19px;
+}
+.getawardslider > a.right {
+    right: 17px;
+    top: 19px;
+}
+.getawardslider .carousel-inner .item > div {
+    display: inline-block;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+}
+.carousel-fade .carousel-inner .item {
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item, .carousel-fade .carousel-inner .active.left, .carousel-fade .carousel-inner .active.right {
+    opacity: 0;
+}
+.carousel-fade .carousel-inner .active, .carousel-fade .carousel-inner .next.left, .carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .next, .carousel-fade .carousel-inner .prev, .carousel-fade .carousel-inner .active.left, .carousel-fade .carousel-inner .active.right {
+    left: 0;
+    transform: translate3d(0px, 0px, 0px);
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+.challanghome {
+}
+.leftsidestyle {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 15px;
+    margin-top: 24px;
+    overflow: hidden;
+}
+.leftsidestyle > p {
+    background: rgba(0, 0, 0, 0) url("../images/style13.png") no-repeat scroll right 23px center;
+    border-bottom: 1px solid #f4f4f4;
+    color: #545454;
+    font-family: med;
+    font-size: 19px;
+    height: 51px;
+    line-height: 48px;
+    text-align: center;
+}
+.challanghomecontent {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 12px;
+    height: 77px;
+    margin-bottom: 11px;
+    overflow: hidden;
+}
+.challanghomecontent > a {
+    display: inline-block;
+    float: right;
+    height: 100%;
+    overflow: hidden;
+    width: 77px;
+}
+.challanghomecontent > a img {
+    height: 100%;
+    width: 79px;
+}
+.challanghomecontent > div {
+    border-right: 1px solid #f4f4f4;
+    float: right;
+    height: 100%;
+    width: 164px;
+}
+.challanghomecontent > div > p {
+    height: 38px;
+    line-height: 35px;
+    margin: 0;
+    padding-right: 12px;
+}
+.challanghomecontent > div > p a {
+    color: #545454;
+    font-size: 14px;
+}
+.challanghomecontent > div > div {
+    border-top: 1px solid #f4f4f4;
+    height: 39px;
+}
+.challanghomecontent > div > div p {
+    border-left: 1px solid #f4f4f4;
+    color: #545454;
+    float: right;
+    font-size: 11px;
+    height: 100%;
+    line-height: 35px;
+    margin: 0;
+    padding-right: 12px;
+    width: 100px;
+}
+.challanghomecontent > div > div p span {
+    color: #934b99;
+    font-size: 11px;
+}
+.challanghomecontent > div > div a {
+    border-radius: 50%;
+    height: 28px !important;
+    margin-right: 16px !important;
+    margin-top: 5px !important;
+    width: 28px !important;
+}
+.leftsidestylecontent {
+    padding: 0 12px;
+}
+.leftsidestylecontent > button {
+    background: #b6b6b6 none repeat scroll 0 0;
+    border: medium none !important;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 16px;
+    height: 36px;
+    margin-bottom: 15px;
+    margin-top: 7px;
+    padding-top: 2px;
+    transition: all 0.2s ease-in 0s;
+    width: 100%;
+}
+.leftsidestylecontent > button:hover {
+    background: #a6a6a6 none repeat scroll 0 0;
+    color: #ffffff;
+}
+.Idealefthome {
+}
+.Idealefthome > p {
+    background-image: url("../images/style14.png");
+}
+.Idealefthome > div > a {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 7px;
+    color: #969696;
+    display: block;
+    font-size: 15px;
+    height: 40px;
+    margin-bottom: 11px;
+    padding: 8px 16px;
+}
+.classifisidehome {
+}
+.classifisidehome > p {
+    background-image: url("../images/style15.png");
+}
+.classifisidehome > div > div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 7px;
+    float: right;
+    height: 67px;
+    margin: 6px;
+    position: relative;
+    transition: all 0.2s ease-in 0s;
+    width: 68px;
+}
+.classifisidehome > div > div p {
+    color: #a4a4a4;
+    font-size: 13px;
+    line-height: 84px;
+    text-align: center;
+    width: 100%;
+}
+.classifisidehome > div > div img {
+    left: -5px;
+    position: absolute;
+    top: -5px;
+}
+.classifisidehome > div > div:hover {
+    background: #f7f7f7 none repeat scroll 0 0;
+}
+.leftside > .row {
+    margin: 0;
+}
+.leftside > .row > div {
+    padding: 0;
+}
+.genralpage {
+}
+.genralpage .tab-content {
+}
+.genralpage .tab-content .tab-pane {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 15px;
+    padding: 4px 14px 24px;
+}
+.usersgeneral {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #d2d2d2;
+    border-radius: 15px;
+    min-height: 200px;
+    padding: 11px 11px 9px;
+    text-align: center;
+}
+.usersgeneral > a {
+}
+.usersgeneral > a img {
+    border: 1px solid #dddfdd;
+    border-radius: 15px;
+    height: 112px;
+    min-height: 112px;
+    width: 100%;
+}
+.usersgeneral > h3 {
+    color: #aa559b;
+    font-family: med;
+    font-size: 15px;
+    margin-bottom: 5px;
+    margin-top: 9px;
+    text-align: center;
+}
+.usersgeneral > p {
+    background: rgba(0, 0, 0, 0) url("../images/style31.png") no-repeat scroll right center;
+    color: #919191;
+    display: inline-block;
+    float: none;
+    font-size: 13px;
+    margin: auto -6px auto auto;
+    padding-right: 22px;
+}
+.usersgeneral > div {
+    margin-top: 2px;
+}
+.usersgeneralcontain {
+    margin-top: 20px;
+    padding: 0 10px;
+}
+.usersgeneralcontain .stars-default > span {
+    cursor: pointer !important;
+    font-size: 13px !important;
+    margin: 0 1px;
+}
+.genralpage .hometab {
+    margin-bottom: 0;
+}
+.genralpage .hometab > li.active::before {
+    height: 0;
+    width: 0;
+}
+.genralpage .hometab > li a > span {
+    height: 60px;
+    width: 206px;
+}
+.genralpage .hometab > li {
+    border-radius: 15px 15px 0 0;
+    margin-left: 9px;
+}
+.mostactiveIdeas {
+    background: rgba(0, 0, 0, 0) url("../images/style32.png") repeat scroll 0 0;
+    min-height: 370px;
+    position: relative;
+}
+.mostactiveIdeas > p {
+    background-image: url("../images/style33.png");
+}
+.mostactiveIdeas .leftsidestylecontent {
+}
+.mostactiveIdeas .leftsidestylecontent a {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 7px;
+    color: #be68a4;
+    font-size: 17px;
+    height: 46px;
+    left: 28%;
+    line-height: 40px;
+    padding: 0 16px !important;
+    position: absolute;
+    text-align: center;
+    top: 44%;
+    transition: all 0.2s ease-in 0s;
+}
+.idea1 {
+    height: 41px !important;
+    left: 16% !important;
+    line-height: 37px !important;
+    padding: 0 21px;
+    top: 29% !important;
+}
+.idea2 {
+    color: #b997af !important;
+    font-size: 15px !important;
+    height: 33px !important;
+    left: 59% !important;
+    line-height: 32px !important;
+    padding: 0 21px !important;
+    top: 62% !important;
+}
+.idea3 {
+    color: #7b7b7b !important;
+    font-size: 15px !important;
+    height: 31px !important;
+    left: 57% !important;
+    line-height: 30px !important;
+    padding: 0 15px !important;
+    top: 78% !important;
+}
+.idea4 {
+    color: #b5b5b5 !important;
+    font-family: light;
+    font-size: 12px !important;
+    height: 26px !important;
+    left: 31% !important;
+    line-height: 24px !important;
+    padding: 0 11px !important;
+    top: 88% !important;
+}
+.mostactiveIdeas .leftsidestylecontent a:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.06);
+}
+.statistcleft {
+}
+.statistcleft .leftsidestylecontent {
+    margin: auto;
+    padding-bottom: 50px;
+    padding-right: 8px;
+    padding-top: 20px;
+}
+.statistcleft > p {
+    background-image: url("../images/style34.png");
+}
+.idea5 {
+    left: 11% !important;
+    top: 61% !important;
+}
+.idea6 {
+    left: 61% !important;
+    top: 29% !important;
+}
+.idea7 {
+    left: 30% !important;
+    top: 18% !important;
+}
+.idea8 {
+    left: 60% !important;
+    top: 17% !important;
+}
+.idea9 {
+    left: 23% !important;
+    top: 76% !important;
+}
+.margintop {
+    margin-top: 48px !important;
+}
+.internalheader {
+    height: 203px;
+    min-height: 203px;
+}
+.headerstyle {
+    background: rgba(0, 0, 0, 0) url("../images/img8.jpg") no-repeat scroll 0 0;
+    height: 128px;
+    margin-top: -66px;
+}
+.internalheader .bottomMenu {
+    margin-top: 6px;
+}
+.internalheader .topMenu {
+    margin-top: 26px;
+}
+.ideadeatilas {
+    margin-top: 48px;
+}
+.ideaimgcontainer {
+    overflow: hidden;
+}
+.ideaimg {
+    border-radius: 15px;
+    float: right;
+    height: 477px;
+    position: relative;
+    width: 78.1%;
+}
+.ideaimg > h2 {
+    background: #ae569b none repeat scroll 0 0;
+    color: #ffffff;
+    font-family: med;
+    font-size: 18px;
+    padding: 14px 50px;
+    position: absolute;
+    right: 0;
+    top: 20px;
+}
+.ideamoredetilas {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 15px;
+    float: left;
+    padding: 22px 15px;
+    width: 19.7%;
+}
+.idearating {
+    border-bottom: 1px solid #f4f4f4;
+    border-top: 1px solid #f4f4f4;
+    margin: 0 -15px;
+    text-align: center;
+}
+.idearating > P, .ideaclassifi > p {
+    color: #545454;
+    font-size: 16px;
+    margin-bottom: 17px;
+    margin-top: 22px;
+}
+.ideamoredetilas .stars-default {
+    margin-bottom: 25px;
+}
+.ideamoredetilas .stars-default > span {
+    font-size: 20px !important;
+}
+.ideaclassifi {
+    text-align: center;
+}
+.ideaclassifi > div {
+    margin-top: 22px;
+}
+.ideaclassifi > div a {
+    background: #ffffff url("../images/style35.png") no-repeat scroll right 10px center;
+    border-bottom: 1px solid #fafafa;
+    color: #c0c0c0;
+    display: block;
+    font-size: 14px;
+    height: 38px;
+    line-height: 35px;
+    padding-right: 38px;
+    text-align: right;
+    transition: all 0.2s ease-in 0s;
+    width: 100%;
+}
+.econ {
+    background-image: url("../images/style36.png") !important;
+}
+.publ {
+    background-image: url("../images/style37.png") !important;
+}
+.ideamoredetilas .likehome {
+    margin-bottom: 29px;
+}
+.ideamoredetilas .likehome p {
+    background: #a4529a none repeat scroll 0 0;
+    height: 57px;
+    line-height: 51px;
+}
+.ideamoredetilas .likehome div {
+    height: 53px;
+}
+.ideamoredetilas .likehome div span {
+    transition: all 0.2s ease-in 0s;
+    width: 65px;
+}
+.ideamoredetilas .likehome div span:first-child {
+    width: 70px;
+}
+.ideaclassifi > div a:hover {
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.055);
+}
+.ArticleDetailsContent > h1 {
+    color: #0f0e0e;
+    font-family: jmed;
+    font-size: 22px;
+    line-height: 80px;
+    margin-top: 10px;
+    text-align: center;
+}
+.ArticleDetailsContent > p {
+    color: #6d6d6d;
+    font-family: light;
+    font-size: 16px;
+    line-height: 29px;
+    padding: 25px 30px;
+}
+.ArticleDetailsContent > p > span {
+    background: #f9f9f9 url("../images/style38.png") no-repeat scroll right 23px center;
+    border-radius: 15px;
+    color: #535252;
+    display: block;
+    font-size: 16px;
+    margin: 30px 0;
+    padding: 24px 110px 27px 24px;
+}
+.aboutArticle {
+    border-top: 1px solid #f4f4f4;
+    margin-top: 60px;
+    overflow: hidden;
+    padding-right: 38px;
+}
+.aboutArticle > p {
+    color: #545454;
+    display: inline-block;
+    float: right;
+    font-size: 13px;
+    margin-bottom: 27px;
+    margin-left: 36px;
+    margin-top: 25px;
+}
+.aboutArticle > p span {
+    color: #ae569b;
+    margin-left: 9px;
+}
+.commentHeader {
+    background: #ffffff none repeat scroll 0 0;
+    border-bottom: 5px solid #cccccc;
+    border-radius: 5px 5px 0 0;
+    margin-top: 28px;
+    overflow: hidden;
+    padding: 22px 33px 14px;
+}
+.commentHeader > p {
+    color: #0f0e0e;
+    float: right;
+    font-family: jmed;
+    font-size: 18px;
+}
+.commentHeader > span {
+    color: #868181;
+    float: left;
+    font-size: 16px;
+}
+.theComment {
+}
+.theComment > div {
+    overflow: hidden;
+    padding: 17px 0;
+}
+.theComment > div > a {
+    display: inline-block;
+    float: right;
+}
+.theComment > div > a img {
+    border: 4px solid #ffffff;
+    border-radius: 15px;
+    height: 70px;
+    width: 70px;
+}
+.commentDetails {
+    background: #ffffff none repeat scroll 0 0;
+    border: 1px solid #e3e3e3;
+    border-radius: 15px;
+    float: left;
+    margin-top: 3px;
+    padding: 18px 20px 7px 0;
+    position: relative;
+    width: 88%;
+}
+.commentDetails > p {
+    color: #616161;
+    float: right;
+    font-family: light;
+    font-size: 14px;
+    line-height: 23px;
+    margin-top: 7px;
+    padding-left: 20%;
+}
+.commentDetails > div {
+    position: relative;
+}
+.commentDetails > div h2 {
+    color: #3e3e3e;
+    float: right;
+    font-family: med;
+    font-size: 13px;
+    margin-bottom: 3px;
+}
+.commentDetails > div > div {
+    float: left;
+}
+.commentDetails > div > div > span {
+    color: #868181;
+    font-size: 15px;
+    margin-left: 14px;
+}
+.commentDetails > div > div > a {
+    border: 1px solid #e3e3e3;
+    border-radius: 7px;
+    color: #515151;
+    font-family: med;
+    font-size: 13px;
+    left: 28px;
+    padding: 8px 13px 12px;
+    position: absolute;
+    top: 14px;
+}
+.commentDetails > div > div > a i {
+}
+.nextcomment {
+    float: right;
+    margin-top: 32px;
+    padding-right: 13% !important;
+}
+.theComment > div:last-child {
+    border-bottom: medium none;
+}
+.ArticleDetailsContent {
+    background: #fdfdfd none repeat scroll 0 0;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+.aboutArticle > p:last-child span {
+    font-size: 16px;
+}
+.nextcomment .commentDetails {
+    width: 86.5%;
+}
+.commentDetails::before {
+    background: rgba(0, 0, 0, 0) url("../images/style45.png") no-repeat scroll 0 0;
+    content: "";
+    height: 16px;
+    position: absolute;
+    right: -9px;
+    top: 19px;
+    width: 9px;
+}
+.addcomment {
+    margin-top: 30px;
+    overflow: hidden;
+}
+.addcomment div {
+    margin-bottom: 10px;
+}
+.addcomment > div:first-child {
+    padding-right: 0;
+}
+.addcomment > div:last-child {
+    padding-left: 0;
+    padding-right: 6px;
+    position: relative;
+}
+.addcomment div:first-child .form-group {
+}
+.addcomment div:first-child input {
+}
+.addcomment input, .addcomment textarea {
+    background: #f7f7f7 none repeat scroll 0 0;
+    border: 1px solid #eaeaea;
+    border-radius: 7px;
+    box-shadow: none;
+    color: #6a6a6a;
+    font-size: 13px;
+}
+.addcomment div:last-child .form-group {
+}
+.addcomment div textarea {
+    height: 164px;
+    max-height: 164px;
+    max-width: 100%;
+    padding: 14px 16px;
+}
+.addcomment input {
+    height: 48px;
+}
+.addcomment div:last-child button {
+    bottom: 25px;
+    left: 19px;
+    position: absolute;
+    transition: all 0.2s ease-in 0s;
+}
+.activeidea {
+}
+.activeidea .challanghomecontent > div > div > span {
+    color: #a4529a;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 35px;
+    text-align: center;
+    width: 50%;
+}
+.activeidea .challanghomecontent > div > div p {
+    width: 50%;
+}
+.activeidea > p {
+    background-image: url("../images/style33.png");
+}
+.mostactive > p {
+    background-image: url("../images/style44.png");
+}
+.mostactive {
+}
+.mostactivecontent > a img {
+    margin: 0;
+}
+.mostactivecontent > a {
+    float: right;
+}
+.mostactivecontent > div {
+    float: right;
+    padding-right: 12px;
+}
+.mostactivecontent > div p {
+    color: #545454;
+    font-size: 15px;
+    margin-bottom: 1px;
+    margin-top: 2px;
+}
+.mostactivecontent > div span {
+    color: #b57bb3;
+    font-size: 13px;
+    margin-top: 6px;
+}
+.mostactivecontent > div .stars-default {
+}
+.mostactivecontent > div .stars-default span {
+    font-size: 13px !important;
+}
+.mostactivecontent {
+    overflow: hidden;
+}
+.addIdealone {
+    border: medium none;
+    border-radius: 9px;
+    height: 72px;
+    margin-top: 20px;
+    padding: 0;
+    width: 100%;
+}
+.addIdealone > span {
+    background: rgba(0, 0, 0, 0) url("../images/style46.png") no-repeat scroll left top;
+    color: #ffffff;
+    display: block;
+    font-family: med;
+    font-size: 23px;
+    height: 100%;
+    line-height: 72px;
+    padding-right: 33px;
+    text-align: right;
+    width: 100%;
+}
+.addIdealone span:hover {
+    color: #ffffff;
+}
+.userdetails {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 15px;
+    margin-top: 47px;
+    overflow: hidden;
+}
+.backuser {
+    background: rgba(0, 0, 0, 0) url("../images/img9.jpg") no-repeat scroll 0 0;
+    box-shadow: 0 -180px 80px -150px rgba(0, 0, 0, 0.6) inset;
+    height: 252px;
+    position: relative;
+}
+.backuser > a {
+}
+.backuser > a img {
+    border-radius: 15px;
+    bottom: -71px;
+    box-shadow: 3px 4px 7px rgba(0, 0, 0, 0.11);
+    height: 152px;
+    position: absolute;
+    right: 29px;
+    width: 152px;
+}
+.backuser > div {
+    bottom: 0;
+    position: absolute;
+    right: 203px;
+}
+.backuser > div h2 {
+    color: #ffffff;
+    font-family: med;
+    font-size: 24px;
+}
+.backuser > div p {
+    color: #ffffff;
+    font-family: light;
+    font-size: 14px;
+}
+.backuser > div p i {
+}
+.moreuserdetails {
+    padding-bottom: 14px;
+    padding-right: 204px;
+}
+.moreuserdetails > p {
+    color: #6d6d6d;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.moreuserdetails > div {
+    margin-top: 16px;
+    overflow: hidden;
+}
+.moreuserdetails > div p {
+    background: rgba(0, 0, 0, 0) url("../images/style53.png") no-repeat scroll right center;
+    color: #6d6d6d;
+    float: right;
+    font-family: light;
+    font-size: 12px;
+    margin-right: 36px;
+    padding-right: 23px;
+}
+.moreuserdetails > div p span {
+    color: #393839;
+    font-family: med;
+    font-size: 13px;
+}
+.moreuserdetails > div > div {
+    float: right;
+}
+.moreuserdetails > div > div span {
+    font-size: 14px !important;
+    margin: 0 1px;
+}
+.awardscontent {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 0 0 15px 15px;
+    margin-top: 24px;
+    overflow: hidden;
+    padding-bottom: 23px;
+}
+.headdivstyle {
+    border-radius: 15px 15px 0 0;
+}
+.headdivstyle > p {
+    background: rgba(0, 0, 0, 0) url("../images/style28.png") no-repeat scroll 0 0;
+}
+.headdivstyle > p > span {
+    background: rgba(0, 0, 0, 0) url("../images/style11.png") no-repeat scroll right 24px center;
+    color: #ffe88c;
+    display: block;
+    font-family: med;
+    font-size: 22px;
+    height: 66px;
+    line-height: 65px;
+    padding-right: 60px;
+    text-align: right;
+}
+.awarddetails {
+    float: left;
+    padding: 18px 28px 23px;
+    text-align: center;
+}
+.awarddetails > div {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 50%;
+    height: 153px;
+    text-align: center;
+    transition: all 0.2s ease-in 0s;
+    width: 153px;
+}
+.awarddetails a {
+    display: block;
+    padding-top: 40px;
+}
+.awarddetails a img {
+    display: none;
+    margin: auto;
+}
+.awarddetails a img:first-child {
+    display: block;
+}
+.awarddetails a img:last-child {
+}
+.awarddetails > p {
+    color: #8f8f8f;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.awarddetails div:hover a img:last-child {
+    display: block;
+}
+.awarddetails div:hover a img:first-child {
+    display: none;
+}
+.myIdeas {
+}
+.myIdeas .headdivstyle > p {
+    margin: 0;
+}
+.myIdeas .headdivstyle > p > span {
+    background: rgba(0, 0, 0, 0) url("../images/style3.png") no-repeat scroll right 23px top 13px;
+    color: #ffffff;
+    line-height: 67px;
+    padding-right: 71px;
+    text-align: right;
+}
+.myIdeas .IdeaContent {
+    background: #ffffff none repeat scroll 0 0;
+}
+.myIdeascontent {
+    padding: 3px 19px 28px;
+}
+.myIdeascontent .likecontain {
+    border-left: medium none;
+    float: left;
+}
+.myIdeascontent .IdeaText {
+    width: 53%;
+}
+.mostactivecontent {
+    margin-bottom: 6px;
+}
+.challaImg {
+    overflow: hidden;
+    padding: 0;
+}
+.challengecontainer {
+    background: #fafafa none repeat scroll 0 0;
+    border-radius: 0 0 15px 15px;
+    margin-top: 45px;
+    padding: 0;
+}
+.chaltext {
+    padding-bottom: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+.chaldetails {
+    float: left;
+    padding-left: 0;
+}
+.chaldetails > p {
+    background: #f4f4f4 url("../images/style57.png") no-repeat scroll right 15px center;
+    border-right: 1px solid #f4f4f4;
+    height: 45px;
+    line-height: 43px;
+    margin-bottom: 0;
+    padding-right: 43px;
+}
+.challaaward {
+    border-right: 1px solid #f4f4f4;
+    overflow: hidden;
+    position: relative;
+}
+.challtimer {
+    border-right: 1px solid #f4f4f4;
+    direction: ltr;
+    padding-bottom: 24px;
+    padding-top: 13px;
+}
+.challtimer > p {
+    margin-top: 0;
+    padding-left: 20px;
+}
+.challtimer > p span {
+    color: #696969;
+    font-size: 14px;
+    margin: 0 12px;
+}
+#countdown {
+    padding-left: 22px;
+}
+.chaltext .IdeaText {
+    padding-left: 0;
+    width: 100%;
+}
+.chaltext .IdeaText > p {
+    height: 275px;
+}
+.chaltext .IdeaText > div {
+}
+.chaltext .IdeaText > div a {
+}
+.widelink {
+    font-family: light !important;
+    padding: 0 17px !important;
+    width: auto !important;
+}
+.challenge {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 15px;
+    height: 370px;
+    margin: 0;
+    overflow: hidden;
+}
+.challengecontainer .headdivstyle > p > span {
+    background: rgba(0, 0, 0, 0) url("../images/style56.png") no-repeat scroll right 24px center;
+    color: #ffffff;
+    display: block;
+    font-family: med;
+    font-size: 22px;
+    height: 78px;
+    line-height: 80px;
+    padding-right: 70px;
+    text-align: right;
+}
+.challengecontainer .headdivstyle > p {
+    background: rgba(0, 0, 0, 0) url("../images/style59.png") no-repeat scroll 0 0 / auto 80px;
+}
+.challengeContent {
+    border-radius: 15px;
+    padding: 6px 20px 18px;
+}
+.challaaward > p {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border-radius: 6px;
+    color: #6d6d6d;
+    float: right;
+    font-family: light;
+    font-size: 19px;
+    padding: 12px 22px;
+    position: absolute;
+    right: -22px;
+    top: 59px;
+    transform: rotate(-90deg);
+}
+.challaaward > p span {
+    font-family: med;
+}
+.chaldetails .awarddetails > div {
+    height: 140px;
+    width: 140px;
+}
+.chaldetails .awarddetails > div img {
+}
+.chaldetails .awarddetails > div:hover img {
+    display: block !important;
+}
+.chaldetails .awarddetails {
+}
+.chaldetails .awarddetails a {
+    padding-top: 27px;
+}
+.timeTo ul li {
+    font-family: reg;
+    font-size: 16px;
+}
+#countdown > div:last-child, #countdown > div:nth-child(9) {
+    background: #ffe88c none repeat scroll 0 0;
+    color: #7b7b7b;
+}
+.challstatis {
+    margin-top: 20px;
+    overflow: hidden;
+}
+.challstatis > a {
+    background: rgba(0, 0, 0, 0) url("../images/img12.jpg") no-repeat scroll 0 0;
+    display: inline-block;
+    float: right;
+    height: 96px;
+    margin-left: 20px;
+    padding: 20px;
+    width: 271px;
+}
+.challstatis > a:last-child {
+    margin-left: 0;
+}
+.challstatis p {
+    color: #5e5e5e;
+    font-family: med;
+    font-size: 18px;
+}
+.challstatis span {
+    color: #c36da6;
+    font-family: med;
+    font-size: 18px;
+}
+.challangerightside {
+}
+.challangerightside .hometab {
+    margin-top: 30px;
+}
+.challangerightside .hometab > li.active {
+    background: #979797 none repeat scroll 0 0;
+}
+.challangerightside .hometab > li.active::before {
+    background: #979797 none repeat scroll 0 0;
+    box-shadow: -2px -2px 0 -1px #979797;
+}
+.leftsidestylecontent .mostactivecontent > div span {
+    font-size: 12px;
+}
+.leftsidestylecontent .mostactivecontent > div span span {
+    color: #434243;
+}
+.userhome > span > i {
+    color: #dedede;
+    position: absolute;
+}
+.userhome > span > i:first-child {
+    font-size: 9px;
+    right: -2px;
+    top: 19px;
+}
+.userhome > span > i:nth-child(2) {
+    font-size: 17px;
+    right: 6px;
+    top: 11px;
+}
+.userhome > span > i:nth-child(3) {
+    font-size: 31px;
+    right: 20px;
+    top: -1px;
+}
+.userhome > span > i:nth-child(4) {
+    font-size: 17px;
+    left: 6px;
+    top: 11px;
+}
+.userhome > span > i:last-child {
+    font-size: 9px;
+    left: -2px;
+    top: 19px;
+}
+.star-5 > i {
+    color: #f8cf28 !important;
+}
+.star-0 > i {
+    color: #cbcbcb !important;
+}
+.star-1 > i {
+    color: #cbcbcb !important;
+}
+.star-1 > i:first-child {
+    color: #f8cf28 !important;
+}
+.star-2 > i {
+    color: #cbcbcb !important;
+}
+.star-2 > i:first-child, .star-2 > i:nth-child(2) {
+    color: #f8cf28 !important;
+}
+.star-3 > i {
+    color: #cbcbcb !important;
+}
+.star-3 > i:first-child, .star-3 > i:nth-child(2), .star-3 > i:nth-child(3) {
+    color: #f8cf28 !important;
+}
+.star-4 > i {
+    color: #f8cf28 !important;
+}
+.star-4 > i:last-child {
+    color: #cbcbcb !important;
+}
+.stars-default > span {
+    cursor: pointer !important;
+}
+.stars-default {
+    position: relative;
+}
+.readrate::after {
+    content: "";
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 2147483647;
+}

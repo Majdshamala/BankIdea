@@ -1,0 +1,614 @@
+﻿
+@media (max-width: 1200px) and (min-width: 767px) {
+}
+@media (min-width: 1200px) {
+.container {
+    width: 1181px;
+}
+.challengecontainer {
+    width: 1151px !important;
+}
+}
+@media (max-width: 1200px) {
+.challstatis > a {
+    width: 31%;
+}
+.challaaward > p {
+    top: 68px;
+}
+.chaldetails .awarddetails {
+    display: inline-block;
+    float: left;
+    padding: 24px 57px 19px;
+    text-align: center;
+    width: 213px;
+}
+.myIdeascontent .IdeaText {
+    text-align: right;
+}
+.awarddetails {
+    display: inline-block;
+    float: none;
+    padding: 30px 30px 0;
+    text-align: center;
+    width: 213px;
+}
+.awardscontent {
+    text-align: center;
+}
+.moreuserdetails > div p {
+    margin-right: 20px;
+}
+.leftsidestyle > p {
+    font-size: 16px;
+    line-height: 51px;
+}
+.ideamoredetilas .likehome div span {
+    width: 46%;
+}
+.ideamoredetilas .likehome div span:first-child {
+    width: 50%;
+}
+.mostactiveIdeas > p, .statistcleft > p {
+    font-size: 13px;
+    line-height: 54px;
+}
+.footer > p {
+    padding: 0 230px;
+}
+.statisticContainer > div > div {
+    height: 183px;
+    margin: 0 26px;
+    width: 183px;
+}
+.headbutton > p {
+    padding: 0 210px;
+}
+}
+@media (max-width: 1200px) and (min-width: 992px) {
+.challangeLeftSide .mostactivecontent > a img {
+    display: none;
+}
+.chaltext {
+    width: 37.6%;
+}
+.chaldetails {
+    width: 29%;
+}
+.mostactivecontent > div p {
+    font-size: 11px;
+}
+.mostactivecontent > div span {
+    font-size: 11px;
+}
+.idea1 {
+    left: 10% !important;
+}
+.mostactiveIdeas .leftsidestylecontent a {
+    left: 21%;
+    top: 44%;
+}
+.idea6 {
+    left: 54% !important;
+    top: 30% !important;
+}
+.idea9 {
+    left: 13% !important;
+    top: 76% !important;
+}
+.getaward > p {
+    font-size: 14px;
+}
+.getawardslider .carousel-inner .item a img {
+    height: 57px;
+    width: 57px;
+}
+.getawardslider > a.left {
+    left: 7px;
+    top: 14px;
+}
+.getawardslider > a.right {
+    right: 7px;
+    top: 14px;
+}
+.getawardslider > a {
+    border: medium none;
+}
+.getaward > img {
+    margin: 28px auto 43px;
+}
+.getaward {
+    height: 313px;
+}
+.challanghomecontent > a {
+    display: none;
+}
+.challanghomecontent > div {
+    width: 100%;
+}
+.challanghomecontent > div > div p {
+    width: 127px;
+}
+.Idealefthome > div > a {
+    font-size: 12px;
+    padding: 11px 16px;
+}
+.classifisidehome > div > div {
+    margin: 13px;
+}
+}
+@media (max-width: 1200px) and (min-width: 767px) {
+.IdeaText > p {
+    font-size: 15px;
+}
+.ideaimghome {
+    width: 174px;
+}
+.IdeaText > h2 {
+    font-size: 16px;
+}
+.IdeaText {
+    padding-left: 14px;
+    padding-right: 16px;
+    width: 245px;
+}
+.userhome {
+    width: 164px;
+}
+.awardhome > span {
+    display: none;
+}
+.awardhome > div {
+    float: none;
+}
+.ideaimghome > img {
+    height: 100%;
+    max-width: 100%;
+    width: auto;
+}
+.ideaimghome {
+    width: 188px;
+}
+}
+@media (max-width: 992px) {
+.chaldetails {
+    float: left;
+    padding-left: 0;
+    padding-right: 0;
+    width: 37%;
+}
+.challaImg {
+    overflow: hidden;
+    padding: 0;
+    width: 63%;
+}
+.challenge {
+    height: auto;
+}
+.chaltext {
+    border-top: 1px solid #f4f4f4;
+    padding-top: 10px;
+}
+.chaltext .IdeaText > p {
+    height: auto;
+}
+.chaltext .IdeaText {
+    padding-bottom: 30px;
+    padding-left: 0;
+    width: 100%;
+}
+.statistcleft .leftsidestylecontent {
+    max-width: 350px;
+}
+.getaward > p {
+    background: rgba(0, 0, 0, 0) url("../images/style11.png") no-repeat scroll right 8px center;
+    padding-right: 40px;
+    text-align: right;
+    width: 97%;
+}
+.challanghomecontent > a img {
+    height: 100%;
+    width: auto;
+}
+.challanghomecontent > a {
+    width: 14%;
+}
+.challanghomecontent > div {
+    width: 86%;
+}
+.challanghomecontent > div > div p {
+    width: 70%;
+}
+.classifisidehome > div > div {
+    height: 71px;
+    margin: 8px;
+    width: 83px;
+}
+.footer > p {
+    padding: 0 70px;
+}
+.statisticContainer > div > div {
+    height: 183px;
+    margin: 0 88px 30px;
+    width: 183px;
+}
+.bottomMenu .navbar-default .navbar-nav > li > a {
+    font-size: 14px;
+    margin: 0 7px;
+}
+.headbutton > p {
+    padding: 0;
+}
+.getaward {
+    margin-top: 30px;
+}
+}
+@media (max-width: 767px) {
+.chaldetails, .challstatis {
+    display: none;
+}
+.challaImg {
+    max-height: 365px;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.challengecontainer .headdivstyle {
+    border-radius: 0;
+}
+.myIdeascontent .IdeaText {
+    padding-left: 10px;
+    width: 68%;
+}
+.backuser {
+    text-align: center;
+}
+.backuser > a {
+    display: inline-block;
+    float: none;
+    margin: auto;
+}
+.backuser > a img {
+    margin-top: 170px;
+    position: static;
+}
+.backuser > div {
+    position: static;
+}
+.backuser > div h2 {
+    color: #9c9c9c;
+    font-size: 22px;
+    margin-top: 11px;
+}
+.backuser > div p {
+    color: #5c5c5c;
+    font-size: 14px;
+}
+.moreuserdetails {
+    padding: 140px 15px 14px;
+}
+.theComment > div > a img {
+    margin-bottom: 6px;
+}
+.ArticleDetailsContent > p > span {
+    background: #f9f9f9 none repeat scroll 0 0;
+}
+.nextcomment {
+    padding-right: 0 !important;
+    text-align: center;
+}
+.nextcomment>a > img {
+    margin-bottom:8px
+}
+.nextcomment .commentDetails {
+    width: 100%;
+}
+.commentDetails::before {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+}
+.theComment > div > a {
+    text-align: center;
+    width: 100%;
+}
+.ArticleDetailsContent > p > span {
+    display: block;
+    font-size: 14px;
+    padding: 16px;
+}
+.commentDetails {
+    width: 100%;
+}
+.aboutArticle > p {
+    margin-bottom: 12px;
+    margin-left: 36px;
+    margin-top: 14px;
+    width: 40%;
+}
+.addcomment div:last-child button {
+    left: 6%;
+}
+.addcomment > div:last-child, .addcomment > div:first-child {
+    padding-left: 0;
+    padding-right: 0;
+}
+.ideaclassifi > div {
+    margin-top: 0;
+}
+.ideaclassifi > p {
+    display: none;
+}
+.ideamoredetilas .likehome {
+    float: left;
+    margin-bottom: 0;
+    width: 30%;
+}
+.idearating {
+    border-color: -moz-use-text-color #f4f4f4;
+    border-style: none solid;
+    border-width: medium 1px;
+    float: left;
+    margin-left: 20px;
+    width: 31%;
+}
+.ideaclassifi {
+    float: right;
+    width: 33%;
+}
+.ideaimg {
+    width: 100%;
+}
+.ideamoredetilas {
+    margin-top: 19px;
+    width: 100%;
+}
+.headerstyle {
+    display: none;
+}
+.internalheader {
+    height: auto;
+    min-height: 203px;
+    overflow: visible;
+    padding-bottom: 24px;
+}
+.bottomMenu .navbar-default .navbar-nav > li > a {
+    padding-right: 10px;
+}
+.genralpage .hometab > li {
+    border-radius: 0 !important;
+    margin-left: 0 !important;
+    width: 100%;
+}
+.hometab > li a > span {
+    font-size: 15px;
+    width: 211px;
+}
+.hometab > li {
+    border-radius: 0;
+}
+.ideaimghome {
+    display: none;
+}
+.userhome {
+    display: none;
+}
+.likecontain {
+    border-left: medium none;
+    float: left;
+}
+.classifisidehome > div > div {
+    height: 97px;
+    margin: 3%;
+    width: 19%;
+}
+.footer > a {
+    margin: 64px auto auto;
+}
+.footer > p {
+    padding: 0 20px;
+}
+.statisticContainer > p {
+    font-size: 25px;
+}
+.statisticContainer > div {
+    max-width: 505px;
+}
+.statisticContainer > div > div {
+    margin: 0 27px 30px;
+}
+.logo {
+    text-align: center;
+}
+.logo a img {
+    margin-right: 0;
+}
+.topMenu {
+    float: none;
+    margin: 21px auto auto;
+    width: 70px;
+}
+.bottomMenu {
+    float: none;
+    margin-top: 22px;
+}
+.header {
+}
+.header .navbar {
+    background: rgba(255, 255, 255, 0.2) none repeat scroll 0 0;
+    float: none;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+.bottomMenu .navbar-brand, .bottomMenu .navbar-brand:hover {
+    color: #ffffff;
+    display: block;
+    font-size: 14px;
+}
+.headbutton > button {
+    margin: 20px 10px 0;
+}
+.headbutton {
+    padding-bottom: 40px;
+}
+.headbutton > h1 {
+    font-size: 38px;
+}
+.headbutton > p {
+    font-size: 15px;
+}
+}
+@media (max-width: 600px) {
+.challanghomecontent > div {
+    width: 82%;
+}
+.challanghomecontent > a {
+    width: 18%;
+}
+.moreuserdetails > div > div {
+    margin-bottom: 8px;
+    width: 100%;
+}
+.moreuserdetails > div p {
+    margin-left: 20px;
+    margin-right: 0;
+}
+.ideaimg {
+    height: 360px;
+}
+.idearating {
+    border-left: 1px solid #f4f4f4;
+    border-right: medium none;
+    width: 48%;
+}
+.ideaclassifi {
+    display: none;
+}
+.ideamoredetilas .likehome {
+    margin-bottom: 0;
+    width: 47%;
+}
+.usersgeneralcontain {
+    width: 50%;
+}
+.hometab > li {
+    border-radius: 0;
+    width: 100%;
+}
+.classifisidehome > div > div {
+    height: 89px;
+    margin: 3%;
+    width: 19%;
+}
+}
+@media (max-width: 520px) {
+.challanghomecontent > div {
+    width: 76%;
+}
+.challanghomecontent > a {
+    width: 22%;
+}
+.myIdeas .IdeaContent {
+    background: #ffffff none repeat scroll 0 0;
+    border-radius: 0;
+    margin-left: -19px;
+    margin-right: -19px;
+}
+.IdeaText > h2 {
+    font-size: 14px;
+}
+.IdeaText > p {
+    font-size: 13px;
+}
+.myIdeascontent .IdeaText {
+    padding-left: 0;
+    padding-right: 8px;
+    width: 62%;
+}
+.ArticleDetailsContent > p {
+    font-size: 14px;
+    padding: 25px 15px;
+}
+.commentDetails > div > div > a {
+    left: 10px;
+    top: -6px;
+}
+.commentDetails > p {
+    margin-top: 17px;
+    padding-left: 19px;
+}
+.commentDetails > div h2 {
+    margin-top: 8px;
+}
+.aboutArticle > p {
+    margin-bottom: 12px;
+    margin-left: 0;
+    margin-top: 14px;
+    width: 94%;
+}
+.IdeaText {
+    padding-left: 12px;
+    padding-right: 13px;
+    width: 65%;
+}
+.IdeaText > div a:first-child {
+    display: none;
+}
+.IdeaText > h2 {
+    font-size: 17px;
+}
+.IdeaText > p {
+    font-size: 14px;
+}
+.classifisidehome > div > div {
+    height: 72px;
+    margin: 3%;
+    width: 19%;
+}
+.statisticContainer > div {
+    text-align: center;
+}
+.statisticContainer > div > div {
+    float: none;
+    margin: 26px auto auto;
+}
+.statisticContainer > div {
+    padding-bottom: 50px;
+}
+}
+@media (max-width: 400px) {
+.challanghomecontent > a {
+    display: none;
+}
+.challanghomecontent > div {
+    width: 100%;
+}
+.usersgeneralcontain {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 195px;
+}
+.usersgeneralcontain {
+    width: 195px;
+}
+.classifisidehome > div > div {
+    height: 78px;
+    margin: 3%;
+    width: 27%;
+}
+.headbutton > button {
+    font-size: 19px;
+    height: 70px;
+    margin: 22px 10px 0;
+    width: 91%;
+}
+}
+@media (max-width: 370px) {
+.IdeaText > p {
+    height: 62px;
+    overflow: hidden;
+}
+.IdeaText > h2 {
+    font-size: 14px;
+}
+}
